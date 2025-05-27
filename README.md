@@ -65,8 +65,15 @@ An end-to-end, highly scalable video event retrieval platform with improved temp
 ## Installation & Setup
 
 1. **Clone the repository**  
+   **For Linux base:**
    ```bash
    git clone https://github.com/phamgiakiet273/Pumpkin_AIC_2024.git
+   cd Pumpkin_AIC_2024
+   ```
+   
+   **For Windows:**
+   ```bash
+   git clone -b for-window https://github.com/phamgiakiet273/Pumpkin_AIC_2024.git
    cd Pumpkin_AIC_2024
    ```
 
